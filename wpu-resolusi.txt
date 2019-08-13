@@ -2,3 +2,4 @@ WPU Resolusi
 - Konsisten belajar PHP 5 jam sehari
 - Membuat Web baru sekali seminggu
 - Mencari inovasi terbaru
+- Belajar cara desain web
